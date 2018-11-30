@@ -1,0 +1,1 @@
+Python est le plus rapide pour ouvrir et écrire dans un fichier, nous conservons donc notre choix de l'utiliser pour ce programme. 
